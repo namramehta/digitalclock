@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+h1,
+h2,
+h3 {
+  margin-top: 150px;
+  font-size: 150px;
+  text-align: center;
+  color: yellow;
+  font-family: Orbitron;
+}
